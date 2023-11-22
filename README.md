@@ -1,5 +1,4 @@
 # Foco
-## Spanish
 ### Descripción
 Foco es una aplicación de Windows orientada a controlar la temperatura de un horno de cerámica a leña. Permite ver gráficamente cosas como la temperatura actual la deseada y el tiempo de cocción.
 
